@@ -22,4 +22,4 @@ Outputs production files to `build/`.
 - **Output Directory:** `build`
 - **Root Directory:** repo root (where `package.json` lives)
 
-> You do **not** need `vercel.json` for CRA.
+> Ensure `react-scripts@5.0.1` is present in dependencies (see package.json).
